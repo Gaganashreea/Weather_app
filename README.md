@@ -25,7 +25,9 @@ A simple, user-friendly Weather App that fetches real-time weather data . Users 
 
 ##📝 Usage
 1️⃣ Enter a city name in the search bar.
+
 2️⃣ Press the Search button (or hit Enter).
+
 3️⃣ View the temperature, humidity, wind speed, and weather condition.
 
 
