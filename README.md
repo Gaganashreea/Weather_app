@@ -26,5 +26,7 @@ This project is free to use for learning and personal projects.
 
 ✨ 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 Developed by :Gaganashree A
+
 📧 Contact: gaganashreegowda16@gmail.com
-🔗 GitHub: https://github.com/gaganashreea
+
+🔗 GitHub: https://github.com/Gaganashreea
