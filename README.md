@@ -23,6 +23,8 @@ A simple, user-friendly Weather App that fetches real-time weather data . Users 
 ##📜 License
 This project is free to use for learning and personal projects.
 
+📌 Clone Repository: https://github.com/Gaganashreea/Weather_app.git
+
 
 ✨ 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 Developed by :Gaganashree A
